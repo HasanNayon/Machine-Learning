@@ -1,0 +1,31 @@
+Logistic Regression
+
+     Accuracy Score: 0.9
+
+DecisionTree
+
+        Accuracy Score: 0.65
+
+Random Forest
+
+        Accuracy Score: 0.825
+
+
+
+
+
+
+When we drop all "SE" and "Worst" Column 
+
+
+Logistic Regression
+
+     Accuracy Score: 0.75
+
+DecisionTree
+
+        Accuracy Score: 0.7
+
+Random Forest
+
+        Accuracy Score: 0.725
